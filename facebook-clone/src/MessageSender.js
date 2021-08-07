@@ -11,9 +11,9 @@ const MessageSender = () => {
   const [{ user }, dispatch] = useStateValue();
   const [input, setInput] = useState('');
   const [imgUrl, setImageUrl] = useState('');
+
   const handleSubmit = (e) => {
     e.preventDefault();
-
     if (input !== '') {
       db.collection('posts').add({
         message: input,

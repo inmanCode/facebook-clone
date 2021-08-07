@@ -5,29 +5,29 @@ const StoryReel = () => {
   return (
     <div className='storyReel'>
       <Story
-        image='https://picsum.photos/200/300'
-        profileSrc='https://avatars2.githubusercontent.com/u/24712956?s=400&u=b71527e605ae1b748fc2d4157a842e57e427ad44&v=4'
-        title='Sonny Sangha'
+        image='https://picsum.photos/200/305'
+        profileSrc='https://picsum.photos/200/400'
+        title='Aymane'
       />
       <Story
-        image='https://picsum.photos/200/300'
-        profileSrc='https://avatars2.githubusercontent.com/u/24712956?s=400&u=b71527e605ae1b748fc2d4157a842e57e427ad44&v=4'
-        title='Sonny Sangha'
+        image='https://picsum.photos/200/304'
+        profileSrc='https://picsum.photos/200/410'
+        title='Alessia'
       />
       <Story
-        image='https://picsum.photos/200/300'
-        profileSrc='https://avatars2.githubusercontent.com/u/24712956?s=400&u=b71527e605ae1b748fc2d4157a842e57e427ad44&v=4'
-        title='Sonny Sangha'
+        image='https://picsum.photos/200/303'
+        profileSrc='https://picsum.photos/200/420'
+        title='Brad'
       />
       <Story
-        image='https://picsum.photos/200/300'
-        profileSrc='https://avatars2.githubusercontent.com/u/24712956?s=400&u=b71527e605ae1b748fc2d4157a842e57e427ad44&v=4'
-        title='Sonny Sangha'
+        image='https://picsum.photos/200/301'
+        profileSrc='https://picsum.photos/200/430'
+        title='React San'
       />
       <Story
-        image='https://picsum.photos/200/300'
-        profileSrc='https://avatars2.githubusercontent.com/u/24712956?s=400&u=b71527e605ae1b748fc2d4157a842e57e427ad44&v=4'
-        title='Sonny Sangha'
+        image='https://picsum.photos/200/302'
+        profileSrc='https://picsum.photos/200/440'
+        title='jhon'
       />
     </div>
   );
